@@ -4,8 +4,6 @@ I am create web developer located in Tangerang, Indonesia.
 
 <h3 align="left">A passionate fullstack developer</h3>
 
-
-## My Skill Set  
 <table><tr><td align="top" width="50%">
 
 ### Fullstack  
