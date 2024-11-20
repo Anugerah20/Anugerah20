@@ -27,19 +27,3 @@ I am create web developer located in Tangerang, Indonesia.
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" /></a>
 </div>
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-  <a href="https://instagram.com/anugerah_est" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/anugerah20" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/nabil-anugerah-pangestu" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>  
-</div>
