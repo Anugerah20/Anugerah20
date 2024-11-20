@@ -33,13 +33,13 @@ I am create web developer located in Tangerang, Indonesia.
 
 ## Connect with me  
 <div align="center">
-<a href="https://instagram.com/anugerah_est" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/anugerah_est" target="_blank" style="text-decoration: none">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/anugerah20" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg style="margin-bottom: 5px;" />
+<a href="https://github.com/anugerah20" target="_blank" style="text-decoration: none">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/nabil anugerah pangestu" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/nabil anugerah pangestu" target="_blank" style="text-decoration: none">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div> 
